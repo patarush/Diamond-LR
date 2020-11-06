@@ -1,11 +1,9 @@
 # Diamond-LR
 Diamond dataset Linear Regression
-
 1. Diamond dataset has been cleaned with visualization.
 2.EDA part has been done on Diamond dataset.
 3.Trained-Test has been done on the Diamond dataset.
 4. correlationship has also been taken into account.
-
 
 ABOUT:
 Context
